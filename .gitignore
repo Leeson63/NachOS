@@ -1,18 +1,30 @@
 # Nachos build files
 # (based on make clean)
-Nachos/nachos-3.4/code/*~
-Nachos/nachos-3.4/code/*/core
-Nachos/nachos-3.4/code/*/nachos
-Nachos/nachos-3.4/code/*/DISK
-Nachos/nachos-3.4/code/*/*.o
-Nachos/nachos-3.4/code/*/swtch.s
-Nachos/nachos-3.4/code/*/*~
-Nachos/nachos-3.4/code/test/*.coff
-Nachos/nachos-3.4/code/bin/coff2flat
-Nachos/nachos-3.4/code/bin/coff2noff
-Nachos/nachos-3.4/code/bin/disassemble
-Nachos/nachos-3.4/code/bin/out
+nachos/nachos-3.4/code/*~
+nachos/nachos-3.4/code/*/core
+nachos/nachos-3.4/code/*/nachos
+nachos/nachos-3.4/code/*/DISK
+nachos/nachos-3.4/code/*/*.o
+nachos/nachos-3.4/code/*/swtch.s
+nachos/nachos-3.4/code/*/*~
+nachos/nachos-3.4/code/test/*.coff
+nachos/nachos-3.4/code/bin/coff2flat
+nachos/nachos-3.4/code/bin/coff2noff
+nachos/nachos-3.4/code/bin/disassemble
+nachos/nachos-3.4/code/bin/out
 
+ref/nachos-3.4/code/*~
+ref/nachos-3.4/code/*/core
+ref/nachos-3.4/code/*/nachos
+ref/nachos-3.4/code/*/DISK
+ref/nachos-3.4/code/*/*.o
+ref/nachos-3.4/code/*/swtch.s
+ref/nachos-3.4/code/*/*~
+ref/nachos-3.4/code/test/*.coff
+ref/nachos-3.4/code/bin/coff2flat
+ref/nachos-3.4/code/bin/coff2noff
+ref/nachos-3.4/code/bin/disassemble
+ref/nachos-3.4/code/bin/out
 # VS Code
 .vscode
 
